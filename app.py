@@ -6,11 +6,11 @@ import plotly.graph_objs as go
 ########### Define your variables ######
 myheading = "What's your favorite Dunkin' Donut?"
 mytitle = "Top 3 Flavors"
-mylabels = ['Chocolate Frosted', 'French Cruller', 'Boston Creme']
+mylabels = ['Frosted Flake', 'French Cruller', 'Boston Creme']
 myvalues = [45,25,7]
-color1 = 'e11383'
+color1 = '210B61'
 color2 = 'f5821f'
-color3 = '683817'
+color3 = 'D0FA58'
 tabtitle = 'dunkin'
 sourceurl = 'https://brandpalettes.com/dunkin-donuts-color-codes/'
 githublink = 'https://github.com/austinlasseter/dash-piechart-example'
